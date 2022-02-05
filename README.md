@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-  Hi there, Its Shubham Gautam!
+  Hi there, I'm Shubham Gautam!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary>📈 My Github Statistics</summary>
+<summary>📈 My Github Statistics:</summary>
 
   <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -28,7 +28,7 @@
 </details>
 <!--Languages and tools-->
 <details>
-<summary>📖 Languages and Tools I Use</summary>
+<summary>📖 Languages and Frameworks:</summary>
 <br />
 
 <p align="center">
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
+<summary>🏆 GitHub Trophies:</summary>
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=maratonisto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
@@ -61,6 +61,6 @@
 </details>
 <hr>
 
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/maratonisto/count.svg"/></h3>
+<h3 align="center">Visitor Count :  <img align="center" src="https://profile-counter.glitch.me/maratonisto/count.svg"/></h3>
 
 
